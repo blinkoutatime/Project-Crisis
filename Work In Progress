@@ -1,0 +1,25 @@
+
+
+Find Code Snippets in these Catagories as well as create prefabs containting scriptables and objects, etc.
+
+  Particle Systems
+    Water/Reflection/Mirrors
+    Create Prefab of 'on.collide' systems (we can make "on collide" genres for easy node mining)
+  
+  Interface Design
+    Click to equip?
+    Every Droppable to auto place in GUI
+  
+  Inventory
+    Pickup/Drop item
+    Stackables
+    Crosshair, Radial Targeting, Apply Effect to Effect/Fusion System
+    
+  World
+    Waypoint Prefabs with no objects, just randomizer script? (for wandering mobs)
+    Portals/doors/waypoint loading screens.
+    
+    
+  Battle System
+    
+    
