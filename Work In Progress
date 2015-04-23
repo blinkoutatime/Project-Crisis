@@ -1,22 +1,31 @@
 
 
-Find Code Snippets in these Catagories as well as create prefabs containting scriptables and objects, etc.
+Find Code Snippets in these Catagories (in order to create prefabs containting scriptables and objects, etc):
 
+ Character Systems
+  Locomotion Scripting (Realistic up/down/physics for applied object)
+  Mouse Script
+  Camera Scripting for filters/effects such as intoxication, under water, etc
+  
+  
   Particle Systems
     Water/Reflection/Mirrors
-    Create Prefab of 'on.collide' systems (we can make "on collide" genres for easy node mining)
+    Create Prefab of 'on.collide' systems (we can make "on collide" genres for easy node animation/activation)
   
-  Interface Design
-    Click to equip?
-    Every Droppable to auto place in GUI
-  
-  Inventory
-    Pickup/Drop item
-    Stackables
+
+ Interface Design
+    Click to equip if item level is better and meets requirements?
+    Auto-place in GUI System
     Crosshair, Radial Targeting, Apply Effect to Effect/Fusion System
+    
+  Inventory
+    Pickup/Drop item scripts
+    Stackable items
+    
     
   World
     Waypoint Prefabs with no objects, just randomizer script? (for wandering mobs)
+    Waypoint scripts/prefabs should have path detection
     Portals/doors/waypoint loading screens.
     
     
